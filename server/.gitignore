@@ -27,6 +27,7 @@ build/
 .next/
 out/
 
+
 # Dependency directories
 /.turbo
 /.vercel
